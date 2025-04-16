@@ -1,0 +1,18 @@
+# prompts.txt
+
+Tool Used: ChatGPT (OpenAI)
+
+Prompts Used:
+--------------
+
+1. How should I start the CDAP Wrangler Byte Size / Time Duration parsing assignment?
+2. How do I check if mvn clean install builds successfully in IntelliJ?
+3. How do I fix ANTLR grammar breaking set-type directive?
+4. Help me write a grammar rule for aggregate-stats directive with BYTE_SIZE and TIME_DURATION
+5. What does this test failure in DataModelMapColumnTest mean?
+6. Fix: Recipe syntax error in FixedLengthParserTest
+7. How to skip tests or isolate one directive's test case in Maven?
+
+Notes:
+- AI was used for debugging help, test triage, ANTLR grammar writing, and Maven troubleshooting.
+- All output was reviewed and validated before inclusion in final code.
